@@ -73,6 +73,9 @@ p {
  font: inherit;
 
 }
+li {
+  padding: 5px;
+}
 
 ol {
 
@@ -81,5 +84,7 @@ list-style: circle;
 text-decoration: none;
 padding: 50px;
 margin: 20px 20px;
+color: black;
+
 
 }
